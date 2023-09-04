@@ -1,2 +1,2 @@
 #!/bin/bash#
-sudo grap /etc/passwd
+grap root /etc/passwd
