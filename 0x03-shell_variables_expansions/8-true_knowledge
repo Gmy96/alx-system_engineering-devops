@@ -1,3 +1,3 @@
 #!/bin/bash
-Sum=$((128+$TRUEKNOWLEDG))
+Sum=$((128 + $TRUEKNOWLEDG))
 echo "The Sum of 128 and $TRUEKNOWLEDGE is $Sum"
